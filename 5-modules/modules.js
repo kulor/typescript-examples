@@ -10,8 +10,12 @@ var Sayings;
         return Greeter;
     })();
     Sayings.Greeter = Greeter;
+
+    Sayings.foo = 'bar';
 })(Sayings || (Sayings = {}));
 var greeter = new Sayings.Greeter("world");
+
+console.log(Sayings.foo);
 
 var button = document.createElement('button');
 button.textContent = "Say Hello";

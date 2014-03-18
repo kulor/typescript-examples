@@ -8,12 +8,12 @@ var Greeter = (function () {
     return Greeter;
 })();
 
-var greeter = new Greeter("Hello, world");
+var greeter = new Greeter(13);
 
 var button = document.createElement('button');
 button.textContent = "Say Hello";
 button.onclick = function () {
-    alert(greeter.greet());
+    alert(greeter.greet().toString());
 };
 
 document.body.appendChild(button);

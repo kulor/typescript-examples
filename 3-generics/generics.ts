@@ -8,12 +8,12 @@ class Greeter<T> {
     }
 }
 
-var greeter = new Greeter<string>("Hello, world");
+var greeter = new Greeter<Number>(13);
 
 var button = document.createElement('button');
 button.textContent = "Say Hello";
 button.onclick = function () {
-    alert(greeter.greet());
+    alert(greeter.greet().toString());
 }
 
 document.body.appendChild(button);

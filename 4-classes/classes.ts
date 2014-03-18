@@ -3,6 +3,11 @@ class Greeter {
     constructor(message: string) {
         this.greeting = message;
     }
+
+    private foo(){
+        return 'foo';
+    }
+
     greet() {
         return "Hello, " + this.greeting;
     }
