@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/3-generics/generics.js" />
+        <item url="file://$PROJECT_DIR$/6-inheritance/inheritance.js" />
+        <item url="file://$PROJECT_DIR$/5-modules/modules.js" />
+        <item url="file://$PROJECT_DIR$/7-definitions/elements.js" />
+        <item url="file://$PROJECT_DIR$/4-classes/classes.js" />
+        <item url="file://$PROJECT_DIR$/2-types/types.js" />
+        <item url="file://$PROJECT_DIR$/1-js/javascript.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/javascript.js" />
+      <root url="file://$PROJECT_DIR$/classes.js" />
+      <root url="file://$PROJECT_DIR$/types.js" />
+      <root url="file://$PROJECT_DIR$/modules.js" />
+      <root url="file://$PROJECT_DIR$/generics.js" />
+      <root url="file://$PROJECT_DIR$/javascript.js" />
+      <root url="file://$PROJECT_DIR$/classes.js" />
+      <root url="file://$PROJECT_DIR$/types.js" />
+      <root url="file://$PROJECT_DIR$/modules.js" />
+      <root url="file://$PROJECT_DIR$/generics.js" />
+      <root url="file://$PROJECT_DIR$/3-generics/generics.js" />
+      <root url="file://$PROJECT_DIR$/6-inheritance/inheritance.js" />
+      <root url="file://$PROJECT_DIR$/7-definitions/elements.js" />
+      <root url="file://$PROJECT_DIR$/5-modules/modules.js" />
+      <root url="file://$PROJECT_DIR$/4-classes/classes.js" />
+      <root url="file://$PROJECT_DIR$/2-types/types.js" />
+      <root url="file://$PROJECT_DIR$/1-js/javascript.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
