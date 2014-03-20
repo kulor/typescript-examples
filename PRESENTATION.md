@@ -27,10 +27,12 @@ Run notes
     * Extend Greeter with InformalGreeter
         * Overload greet method with a new greet and message "Hi,"
 * Modules
-    Wrap Greeter class and interface in module
-    Export both
+    * Wrap Greeter class and interface in module
+    * Export both
 * Source maps
-    - Good for debugging in the browser
+    * Good for debugging in the browser
+    * Go to http://rawgithub.com/kulor/typescript-examples/master/8-source-maps/index.html
+    * Add breakpoint in increaseClickCount
 
 Alternatives
 ----
