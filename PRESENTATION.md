@@ -1,8 +1,8 @@
 Run notes
 ----
 
-* Run code [http://www.typescriptlang.org/Playground/]
-* "Press Run"
+1. Run code [http://www.typescriptlang.org/Playground/]
+1. "Press Run"
 * Fix property type to not show `[object]`
     * "Set type on Greeter to `greeter:string`"
     * "Change `{message: 'world'}` to just world"
