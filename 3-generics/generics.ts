@@ -3,7 +3,7 @@ class Greeter<T> {
     constructor(message: T) {
         this.greeting = message;
     }
-    greet() {
+    greet(): T {
         return this.greeting;
     }
 }

@@ -14,6 +14,11 @@ Run notes
     * "change Greeter's signature to use interface"
     * Show how function can take multiple arguments (none, string)
         * show that when you change the calling signature you get different options
+    * Optional properties
+        * "add foo?"
+* Generics
+    * "add generic <T> to the Greeter class"
+    * "set <Type> on call to <String>, then <Number>"
 * Hover over button.textContent to show it knows about Document object
 * Smarter IDE
     * "Rename "message" property in Interface to "msg"". Notice the inner reference also updates
