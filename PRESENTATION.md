@@ -27,10 +27,10 @@ Run notes
 * Source maps
     - Good for debugging in the browser
 
-Alternatives (https://github.com/jashkenas/coffee-script/wiki/List-of-languages-that-compile-to-JS)
+Alternatives
 ----
 * Coffee Script
 * Traceur Compiler (EcmaScript 6 now)
 * Dart
 * JSX
-...
+* [more](https://github.com/jashkenas/coffee-script/wiki/List-of-languages-that-compile-to-JS)
