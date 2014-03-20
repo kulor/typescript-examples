@@ -18,15 +18,19 @@ Run notes
 * Smarter IDE
     * "Rename "message" property in Interface to "msg"". Notice the inner reference also updates
 * Classes
-    Refactor Greeter to > class Greeter
+    * Refactor Greeter to > class Greeter
+    * Extend Greeter with InformalGreeter
+        * Overload greet method with a new greet and message "Hi,"
 * Modules
     Wrap Greeter class and interface in module
     Export both
+* Source maps
+    - Good for debugging in the browser
 
 Alternatives (https://github.com/jashkenas/coffee-script/wiki/List-of-languages-that-compile-to-JS)
 ----
-Coffee Script
-Traceur Compiler (EcmaScript 6 now)
-Dart
-JSX
+* Coffee Script
+* Traceur Compiler (EcmaScript 6 now)
+* Dart
+* JSX
 ...
